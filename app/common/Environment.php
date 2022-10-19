@@ -4,6 +4,8 @@
 
     class Environment {
 
+        //Criação das variáveis de ambiente
+
         public static function load($dir) {
             if(!file_exists($dir.'/.env')) {
                 return false;

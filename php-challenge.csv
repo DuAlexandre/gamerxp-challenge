@@ -1,0 +1,13 @@
+﻿product,desc,unit,price,date,staff
+Product A,Product A desc,2,10.99,2022/10/01 10:53,-1
+Product B,Product B des,1,9.99,2022/10/03 12:49,1
+Product C,Product C des,5,15.99,2022/10/04 09:59,2
+Product D,Product D des,6,9.99,2022/10/06 12:56,-1
+Product E,Product E des,8,4.99,2022/10/07 13:23,-1
+Product F,Product F des,0,29.99,2022/10/10 16:00,3
+Product G,Product G des,15,15.99,2022/10/11 14:52,1
+Product H,Product H des,12,16.99,2022/10/11 15:12,2
+Product I,Product I des,3,3.99,2022/10/12 07:56,4
+Product J,Product J des,1,0.99,2022/10/12 18:32,2
+Product K,Product K des,2,16.99,2022/10/13 12:46,1
+Product L,Product L des,2,19.99,2022/10/14 19:50,4
