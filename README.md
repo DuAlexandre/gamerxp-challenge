@@ -8,7 +8,7 @@
 - [Competências Desenvolvidas](#ancora4) <br>
 - [Execução](#ancora7) <br>
 - [Prints de Execução](#ancora8) <br>
-- [Colaboradores](#ancora9)
+- [Desenvolvedor](#ancora9)
 
 <br><br>
 
@@ -54,15 +54,24 @@ Você precisá criar um programa em PHP no qual leia um arquivo em CSV e guarde 
 
 <br>
 
-Clone este repositório remoto em seu equipamento:
+- Clone este repositório remoto em seu equipamento:
 ```
 git clone git@github.com:DuAlexandre/gamerxp-challenge.git
 ```
-Ou utilize o GitHub Pages para visualizar a página:
+- Execute o comando:
 ```
-https://dualexandre.github.io/sound-garden-gama-xp44/
+composer install
 ```
-
+- Implemente o banco de dados com o arquivo `product.sql` localizado na raiz deste diretório; 
+- Renomeie o arquivo `.env.example` para `.env` e edite as credenciais do banco de dados;
+- Execute o comando para iniciar o servidor PHP: 
+```
+php -S localhost:8000
+```
+- Abra a aplicação em seu navegador web:
+```
+http://localhost:8000
+```
 <br>
 
 <a id="ancora8"></a>
@@ -70,33 +79,22 @@ https://dualexandre.github.io/sound-garden-gama-xp44/
 
 <br>
 
-<center><img src="./img/print1.png"></center>
+<center><img src="./assets/images/print1.png"></center>
 
 <br>
 
-<center><img src="./img/print2.png"></center>
+<center><img src="./assets/images/print2.png"></center>
 
-<br>
-
-<center><img src="./img/print3.png"></center>
 
 <br><br>
 
 <a id="ancora9"></a>
-## 🤝 Colaboradores
+## 🤝 Desenvolvedor:
 
 Projeto desenvolvido por:
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/pedro-rackoff/">
-        <img src="https://avatars.githubusercontent.com/u/108676507?v=4" width="100px;" alt=""/><br>
-        <sub>
-          <b>Pedro Rackoff</b>
-        </sub>
-      </a>
-    </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/eduardo-alexandre025/">
         <img src="https://avatars.githubusercontent.com/u/95940707?s=96&v=4" width="100px;" alt=""/><br>
